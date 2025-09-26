@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topicos>
+<topico><autor>ricardo.akira@sp.senai.br</autor><titulo>Oque você acha do Curso</titulo><mensagem>Olá vamos discutir sobre PHP + XML</mensagem><comentarios><comentario><nome>Gaio Belitardo de Oliveira</nome><mensagem>Eu acho o máximo!!!</mensagem></comentario><comentario><nome>Amanda da SIlva</nome><mensagem>Bom dia!!!</mensagem></comentario></comentarios></topico><topico><autor>ricardo.akira@sp.senai.br</autor><titulo>Como esta hoje?</titulo><mensagem>nos conte como estamos hoje</mensagem><comentarios/></topico></topicos>
+        
